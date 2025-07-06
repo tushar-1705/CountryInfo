@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find Us",
+    "details": "Kalyan, Maharashtra"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call Us",
+    "details": "9867564321"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail Us",
+    "details": "contact@gmail.com"
+  }
+]
