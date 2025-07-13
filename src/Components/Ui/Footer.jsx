@@ -35,29 +35,6 @@ const Footer = () => {
               <div className="copyright-text">
                 <p>Copyright &copy; 2025, All Right Reserved</p>
               </div>
-
-              <div className="footer-menu">
-                <ul>
-                  <li>
-                    <NavLink to="/">Home</NavLink>
-                  </li>
-                  <li>
-                    <NavLink to="/" target="_blank">
-                      Social
-                    </NavLink>
-                  </li>
-                  <li>
-                    <NavLink to="/" target="_blank">
-                      Source Code
-                    </NavLink>
-                  </li>
-                  <li>
-                    <NavLink to="/contact" target="_blank">
-                      Contact
-                    </NavLink>
-                  </li>
-                </ul>
-              </div>
             </div>
           </div>
         </div>

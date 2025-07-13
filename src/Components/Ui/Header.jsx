@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { NavLink } from 'react-router-dom'
+import { NavLink , Link} from 'react-router-dom'
 import { GiHamburgerMenu } from "react-icons/gi";
 
 const Header = () => {
@@ -23,16 +23,16 @@ const Header = () => {
                <nav className={show ? 'menu-mobile' : 'menu-web'}>
                 <ul>
                     <li>
-                        <NavLink to='/'>Home</NavLink>
+                        <Link to='/'>Home</Link>
                     </li>
                     <li>
-                        <NavLink to='/about'>About</NavLink>
+                        <Link to='/about'>About</Link>
                     </li>
                     <li>
-                        <NavLink to='country'>Country</NavLink>
+                        <Link to='country'>Country</Link>
                     </li>
                     <li>
-                        <NavLink to='contact'>Contact</NavLink>
+                        <Link to='contact'>Contact</Link>
                     </li>
                 </ul>
                </nav>

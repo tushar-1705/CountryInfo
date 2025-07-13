@@ -22,7 +22,7 @@ const HeroSection = () => {
           </div>
           <div className="hero-image">
             <img
-              src="/public/image/World.png"
+              src="/Image/world.png"
               alt="Image not Found"
               className="banner-image"
             />

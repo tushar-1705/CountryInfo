@@ -367,6 +367,8 @@ ul {
 .copyright-area {
   background: #202020;
   padding: 15px 0;
+  text-align: center;
+  /* margin-left: 50re; */
 }
 .copyright-text p {
   margin: 0;
@@ -525,7 +527,7 @@ contact us page
 --------------- */
 
 .section-contact {
-  margin: 3rem auto;
+  margin: 4.1rem auto;
 
   & h2 {
     border-color: rgba(255, 255, 255, 0.6);
